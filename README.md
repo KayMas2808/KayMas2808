@@ -47,7 +47,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-<center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KayMas2808&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a></center>
+<div style="text-align:center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KayMas2808&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</div>
 
 ###
