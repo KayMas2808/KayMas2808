@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KayMas2808&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KayMas2808&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 ###
