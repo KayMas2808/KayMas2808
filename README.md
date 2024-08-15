@@ -46,6 +46,7 @@
   <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
 </div>
 
 ###
