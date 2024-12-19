@@ -49,9 +49,3 @@
 </div>
 
 ###
-<p align="center">
-<!--     current streak--> <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KayMas2808&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KayMas2808&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=true" alt="GitHub Streak" /></a>
-</p>
-
-###
